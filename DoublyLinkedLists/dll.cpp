@@ -187,6 +187,7 @@ int main()
     insert_at_pos(5,121);
     delete_pos(7);
 
+
     while (head != NULL)
     {
         cout << head->info << " ";
